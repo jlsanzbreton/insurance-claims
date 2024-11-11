@@ -93,9 +93,4 @@ export default function EmailTestPage() {
                 </p>
               </div>
             </div>
-          )}
-        </div>
-      </div>
-    </div>
-  );
-}
+   
